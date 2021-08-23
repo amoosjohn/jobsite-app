@@ -1,0 +1,98 @@
+/*
+Custom css
+*/
+/*.fa-times{
+	color: #ea2828
+}*/
+
+/*.fa-times:hover{
+	font-size: 16px;
+}*/
+.checkboxmargin{
+margin: 0 16px;
+}
+.fa-trash-o{
+	color: #e81212;
+}
+/*.fa-pencil{
+	color: #2c2ce4;
+}*/
+.img-preview img{
+
+    height: 43px;
+    width: 65px;
+}
+.img-pvw {
+    height: 45px;
+    margin-top: 28px;
+    cursor: pointer;
+    overflow: hidden;
+    border-radius: 2px;
+}
+.marginBtnTeamsite0{
+     margin-bottom: 0 !important;
+}
+#img-upload{
+    width: 100%;
+}
+.padding0{
+     padding:0;
+}
+.blue-bsn-btn {
+    background: #0180cc;
+    height: 40px;
+    width: 150px;
+    border-radius: 1px;
+    color: #fff;
+    font-size: 14px;
+}
+
+.blue-bsn-btn:hover {
+    background: #0180cc;
+    height: 40px;
+    width: 150px;
+    border-radius: 1px;
+    color: #fff;
+    font-size: 14px;
+}
+.red-bsn-btn {
+    background: #ea2e49;
+    height: 40px;
+    width: 150px;
+    border-radius: 1px;
+    color: #fff !important;
+    font-size: 14px;
+}
+
+.red-bsn-btn:hover {
+    background: #ea2e49;
+    height: 40px;
+    width: 150px;
+    border-radius: 1px;
+    color: #fff !important;
+    font-size: 14px !important;
+}
+.status-label {
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+}
+.label-primary {
+    background-color: #337ab7;
+}
+.label-warning {
+    background-color: #f0ad4e;
+}
+.label-success {
+    background-color: #5cb85c;
+}
+.label-danger {
+    background-color: #d9534f;
+}
